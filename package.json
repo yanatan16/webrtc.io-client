@@ -25,6 +25,7 @@
       "email": "me@dennis.is"
     }
   ],
+  "browser": "lib/webrtc.io.js",
   "license": "MIT",
   "devDependencies": {
     "jshint": "~0.9.1"
